@@ -14,7 +14,6 @@ try:
         6: 'Saturday',
     }
 
-    print ("At least one argument")
     print (DayOfWeek.get(IntegerArgument, "Not a valid day"))
 
     
